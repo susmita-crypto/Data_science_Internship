@@ -29,3 +29,9 @@ Week 5:
 - Used Matplotlib and Seaborn to explore distributions and relationships.
 - Identified key patterns related to survival, passenger class, sex, age, fare, and family size.
 - Practiced explaining visualizations and analytical findings in plain language.
+Week 6:
+- Learned the basics of statistical inference and hypothesis testing.
+- Practiced confidence intervals, margin of error, and p-values.
+- Learned the basic idea of A/B testing.
+- Applied an independent samples t-test and a chi-square test to the Titanic dataset.
+- Practiced interpreting statistical results and explaining them in plain language.
