@@ -4,7 +4,7 @@
 
 This repository contains my weekly work and learning progress
 
-for the Data Science Internship Program.
+for the Data Science Internship.
 
 
 
