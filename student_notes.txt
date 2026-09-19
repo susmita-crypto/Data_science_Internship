@@ -22,3 +22,10 @@ Week 4:
 - Applied data cleaning and statistical analysis to the Students Performance dataset.
 - Used a correlation heatmap and average-score visualization to communicate findings.
 - Learned how to interpret statistical results and write a short data analysis summary.
+
+Week 5:
+- Performed Exploratory Data Analysis on the cleaned Titanic dataset from Week 3.
+- Practiced creating histograms, box plots, scatter plots, count plots, and heatmaps.
+- Used Matplotlib and Seaborn to explore distributions and relationships.
+- Identified key patterns related to survival, passenger class, sex, age, fare, and family size.
+- Practiced explaining visualizations and analytical findings in plain language.
