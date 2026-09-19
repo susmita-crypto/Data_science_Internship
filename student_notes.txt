@@ -1,3 +1,24 @@
 Name: Susmita
 Course: Data Science with Python
 Week: 1 Python Fundamentals
+Name: Susmita
+Course: Data Science with Python
+Week: 1 Python Fundamentals
+
+Week 2:
+- Learned basic SQL concepts and practiced SQL queries.
+- Worked with databases and retrieved data using SELECT, WHERE, GROUP BY, ORDER BY, and other SQL operations.
+- Practiced SQL queries for data analysis.
+
+Week 3:
+- Learned data wrangling using NumPy and Pandas.
+- Practiced loading, exploring, cleaning, filtering, and transforming data.
+- Worked with the Titanic dataset and handled missing values and duplicate rows.
+- Created a cleaned dataset and documented the data-cleaning process.
+
+Week 4:
+- Learned basic descriptive statistics and probability concepts.
+- Practiced mean, median, mode, variance, standard deviation, and correlation.
+- Applied data cleaning and statistical analysis to the Students Performance dataset.
+- Used a correlation heatmap and average-score visualization to communicate findings.
+- Learned how to interpret statistical results and write a short data analysis summary.
