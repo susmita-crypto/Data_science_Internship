@@ -1,9 +1,7 @@
 Name: Susmita
 Course: Data Science with Python
 Week: 1 Python Fundamentals
-Name: Susmita
-Course: Data Science with Python
-Week: 1 Python Fundamentals
+
 
 Week 2:
 - Learned basic SQL concepts and practiced SQL queries.
@@ -29,9 +27,18 @@ Week 5:
 - Used Matplotlib and Seaborn to explore distributions and relationships.
 - Identified key patterns related to survival, passenger class, sex, age, fare, and family size.
 - Practiced explaining visualizations and analytical findings in plain language.
+
 Week 6:
 - Learned the basics of statistical inference and hypothesis testing.
 - Practiced confidence intervals, margin of error, and p-values.
 - Learned the basic idea of A/B testing.
 - Applied an independent samples t-test and a chi-square test to the Titanic dataset.
 - Practiced interpreting statistical results and explaining them in plain language.
+
+Week 7:
+- Learned the standard machine learning workflow: split, train, predict, and evaluate.
+- Implemented Linear Regression on a regression dataset.
+- Practiced MAE, MSE, RMSE, and R² evaluation metrics.
+- Implemented Logistic Regression on a binary classification dataset.
+- Practiced accuracy, precision, recall, F1-score, and confusion matrix evaluation.
+- Learned why different machine learning problems require different evaluation metrics.
