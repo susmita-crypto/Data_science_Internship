@@ -42,3 +42,13 @@ Week 7:
 - Implemented Logistic Regression on a binary classification dataset.
 - Practiced accuracy, precision, recall, F1-score, and confusion matrix evaluation.
 - Learned why different machine learning problems require different evaluation metrics.
+
+Week 8:
+- Learned why accuracy alone can be misleading when evaluating classification models.
+- Learned and practiced K-Fold Cross-Validation and Stratified Cross-Validation.
+- Practiced categorical encoding and feature scaling.
+- Learned how to identify and handle outliers using the IQR method and outlier capping.
+- Used GridSearchCV for systematic hyperparameter tuning.
+- Re-ran the Week 7 regression and classification projects using cross-validation and tuned models.
+- Compared baseline and tuned model performance using appropriate evaluation metrics.
+- Practiced interpreting model improvements without assuming that tuning will always improve every metric.
