@@ -61,3 +61,12 @@ Week 9:
 - Implemented a simple moving-average forecast.
 - Implemented a basic linear-trend forecast for future periods.
 - Practiced interpreting time-series patterns and writing a plain-language summary of findings.
+
+
+Week 10 – Dashboards and Data Storytelling
+
+Built a Titanic survival analysis dashboard using Power BI.
+Created summary metrics and charts for overall survival, gender, passenger class, and age group.
+Added a business question and plain-language key findings for a non-technical audience.
+Used the cleaned Titanic dataset and prepared a dashboard-specific CSV file.
+Received feedback from a mentor and used it to review the dashboard before finalizing.
