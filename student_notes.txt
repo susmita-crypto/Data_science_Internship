@@ -63,10 +63,20 @@ Week 9:
 - Practiced interpreting time-series patterns and writing a plain-language summary of findings.
 
 
-Week 10 – Dashboards and Data Storytelling
+Week 10 
+-Built a Titanic survival analysis dashboard using Power BI.
+-Created summary metrics and charts for overall survival, gender, passenger class, and age group.
+-Added a business question and plain-language key findings for a non-technical audience.
+-Used the cleaned Titanic dataset and prepared a dashboard-specific CSV file.
+-Received feedback from a mentor and used it to review the dashboard before finalizing.
 
-Built a Titanic survival analysis dashboard using Power BI.
-Created summary metrics and charts for overall survival, gender, passenger class, and age group.
-Added a business question and plain-language key findings for a non-technical audience.
-Used the cleaned Titanic dataset and prepared a dashboard-specific CSV file.
-Received feedback from a mentor and used it to review the dashboard before finalizing.
+Week 11:
+-Selected and loaded the Telco Customer Churn dataset from Kaggle.
+-Practiced data cleaning, including handling missing values and converting data types.
+-Performed exploratory data analysis to understand customer churn patterns.
+-Analyzed churn by contract type, internet service, payment method, tenure, and monthly charges.
+-Built a Logistic Regression model for customer churn prediction.
+-Practiced evaluating classification performance using accuracy, precision, recall, F1-score, and ROC-AUC.
+-Created and interpreted a confusion matrix and ROC curve.
+-Practiced interpreting machine-learning results and explaining business implications in plain language.
+-Documented project limitations and prepared the project for initial mentor feedback.
