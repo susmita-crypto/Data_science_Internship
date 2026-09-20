@@ -52,3 +52,12 @@ Week 8:
 - Re-ran the Week 7 regression and classification projects using cross-validation and tuned models.
 - Compared baseline and tuned model performance using appropriate evaluation metrics.
 - Practiced interpreting model improvements without assuming that tuning will always improve every metric.
+
+Week 9:
+- Learned the basic concepts of time series data and how time series differs from regular tabular data.
+- Practiced identifying trend and seasonality in monthly sales data.
+- Learned time-based aggregation and Pandas resampling by month and week.
+- Practiced calculating rolling averages to smooth short-term fluctuations.
+- Implemented a simple moving-average forecast.
+- Implemented a basic linear-trend forecast for future periods.
+- Practiced interpreting time-series patterns and writing a plain-language summary of findings.
