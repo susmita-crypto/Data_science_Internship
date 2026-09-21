@@ -80,3 +80,13 @@ Week 11:
 -Created and interpreted a confusion matrix and ROC curve.
 -Practiced interpreting machine-learning results and explaining business implications in plain language.
 -Documented project limitations and prepared the project for initial mentor feedback.
+
+### Week 12:
+- Defined and documented a customer churn capstone problem with a clear business objective.
+- Combined data sourcing, cleaning, exploratory analysis, visualization, and machine learning into one project.
+- Built and evaluated a Logistic Regression model for customer churn prediction.
+- Created a business-focused Power BI dashboard to communicate the main findings.
+- Documented project results, limitations, future improvements, and business implications.
+- Prepared a 10–15 minute final presentation covering the project workflow and results.
+- Reflected on the three biggest skills learned during the internship and areas for continued improvement.
+- Prepared the final capstone repository for mentor review and presentation.
